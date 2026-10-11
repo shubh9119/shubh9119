@@ -1,3 +1,15 @@
+## 🚀 Featured Production AI & LLM Systems
+
+| Project | Domain & Architecture | Core Stack |
+| :--- | :--- | :--- |
+| **[🎙️ voice-ai-low-latency-agent](https://github.com/shubh9119/voice-ai-low-latency-agent)** | Real-Time Low-Latency Voice AI Agent & Speech RAG Pipeline (**Sub-380ms TTFA**) | `Python` `WebRTC` `Whisper LoRA (STT)` `Streaming TTS` `Qdrant` |
+| **[🏥 clinical-ai-medical-rag-assistant](https://github.com/shubh9119/clinical-ai-medical-rag-assistant)** | Clinical AI Scribe, Multimodal Medical Imaging Diagnosis & **HL7 FHIR R4 / SOAP** System | `Python` `Medical VLM` `FHIR R4` `ICD-10 NER` `Safety Guardrails` |
+| **[🔄 agentic-rag-langgraph-pipeline](https://github.com/shubh9119/agentic-rag-langgraph-pipeline)** | Stateful Corrective & Hybrid Agentic RAG with **Reciprocal Rank Fusion (RRF)** | `LangGraph` `Qdrant` `Hybrid RRF` `Claude Sonnet` `FastAPI` |
+| **[⚒️ multi-agent-mcp-orchestrator](https://github.com/shubh9119/multi-agent-mcp-orchestrator)** | Multi-Agent LLM Orchestration Platform with **Model Context Protocol (MCP)** Server Bus | `MCP` `Multi-Agent` `Anthropic Tool-Use` `JSON-RPC 2.0` `Docker` |
+| **[⚡ llm-finetuning-eval-pipeline](https://github.com/shubh9119/llm-finetuning-eval-pipeline)** | 4-Bit **QLoRA / LoRA SFT** Post-Training Pipeline & Automated **CI/CD Quality Gate** | `PEFT / LoRA` `TRL SFTTrainer` `P01-P12 Diagnostics` `GitHub Actions` |
+
+---
+
 <div align="center">
 
 # 👋 Hi, I'm Shubham Singh
